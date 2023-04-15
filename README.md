@@ -15,6 +15,7 @@ This Telegram bot is built using the following technologies:
 
 - 🐍 Python
 - 🤖 pyTelegramBotAPI
+- ℹ️ SQLite3 Database
 - 📨 1secmail.com API
 
 ## 🛠️ Installation and Usage
