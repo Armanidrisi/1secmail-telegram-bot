@@ -13,10 +13,10 @@ Welcome to the 📧 Temporary Email Generator Telegram Bot! This is a Telegram b
 
 This Telegram bot is built using the following technologies:
 
-- 🐍 Python
-- 🤖 pyTelegramBotAPI
-- ℹ️ SQLite3 Database
-- 📨 1secmail.com API
+- 🐍 Python - Language 
+- 🤖 pyTelegramBotAPI - Framework
+- ℹ️ SQLite3 - Database
+- 📨 1secmail.com - API
 
 ## 🛠️ Installation and Usage
 
