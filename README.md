@@ -1,11 +1,11 @@
 # 📧 Temporary Email Generator Telegram Bot
 
-[![License](https://img.shields.io/github/license/Armanidrisi/1secmail-telegram-bot)](https://github.com/Armanidrisi/1secmail-telegram-bot/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/downloads/release/python-390/)
-[![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-4.1-orange)](https://github.com/eternnoir/pyTelegramBotAPI)
-[![1secmail.com](https://img.shields.io/badge/1secmail.com-API-red)](https://www.1secmail.com/api/)
-[![Forks](https://img.shields.io/github/forks/Armanidrisi/1secmail-telegram-bot)](https://github.com/Armanidrisi/1secmail-telegram-bot/network/members)
-[![Stars](https://img.shields.io/github/stars/Armanidrisi/1secmail-telegram-bot)](https://github.com/Armanidrisi/1secmail-telegram-bot/stargazers)
+[![License](https://img.shields.io/github/license/Armanidrisi/1secmail-telegram-bot?style=social&logo=github)](https://github.com/Armanidrisi/1secmail-telegram-bot/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9-blue?style=social&logo=python)](https://www.python.org/downloads/release/python-390/)
+[![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-4.1-orange?logo=telegram&style=social)](https://github.com/eternnoir/pyTelegramBotAPI)
+[![1secmail.com](https://img.shields.io/badge/1secmail.com-API-red?style=social&logo=gmail)](https://www.1secmail.com/api/)
+[![Forks](https://img.shields.io/github/forks/Armanidrisi/1secmail-telegram-bot?style=social&logo=github)](https://github.com/Armanidrisi/1secmail-telegram-bot/network/members)
+[![Stars](https://img.shields.io/github/stars/Armanidrisi/1secmail-telegram-bot?style=social&logo=github)](https://github.com/Armanidrisi/1secmail-telegram-bot/stargazers)
 
 Welcome to the 📧 Temporary Email Generator Telegram Bot! This is a Telegram bot that generates temporary email addresses using the 1secmail API. This bot allows users to quickly generate temporary email addresses that can be used for various purposes, such as signing up for online services or creating disposable email addresses for privacy purposes.
 
