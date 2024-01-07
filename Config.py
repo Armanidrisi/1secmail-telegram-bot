@@ -6,6 +6,6 @@ Example URIs for different database types:
 - PostgreSQL: postgresql://<username>:<password>@<hostname>:<port>/<database_name>
 """
 
-TOKEN = "6633482629:AAF-ifKANp5oD3RIKAtGrMdV8_sf-2EwvIQ"  # Bot Token
+TOKEN = "6878698175:AAHmlokNbkfiBGVNX4JORe722tiSaHE8urs"  # Bot Token
 
 BASE_URL = "https://www.1secmail.com/api/v1/"  # API Base URL. Do not change
